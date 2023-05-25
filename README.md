@@ -21,3 +21,4 @@
 ## Stack
   * Nest
   * MongoDB
+  * Docker
